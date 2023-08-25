@@ -1,0 +1,26 @@
+
+table{
+margin-left: 50px;
+
+}
+
+th{
+background-color: E5E5E5;
+}
+
+td{
+text-align: center;
+}
+
+.button{
+	background-color: #FF7377;
+	border-radius: 30px;
+	padding: 10px 30px;
+font-weight: bold;
+}
+
+
+input{
+	border: 0px;
+	text-align: center;
+}

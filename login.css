@@ -1,0 +1,38 @@
+
+.container{
+height: 250px;
+width: 300px;
+background-color: 58BAA2;
+border-radius: 20px;
+ padding: 30px;
+margin-top: 100px;
+}
+
+.name{
+color: white;
+font-size: 20px;
+}
+input{
+	border: none;
+	padding: 3px;
+}
+
+.login{
+font-weight: bold;
+font-size: 25px;
+color: white;
+font-family: Arial;
+}
+
+.button{
+background-color: FB9696;
+border: none;
+border-radius: 16px;
+padding: 10px 30px;
+font-weight: bold;
+}
+
+.button:hover{
+opacity: 0.4;
+cursor: pointer;
+}

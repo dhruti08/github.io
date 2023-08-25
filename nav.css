@@ -1,0 +1,32 @@
+body   
+{  
+height: 15pxh;  
+margin-top: 80px;  
+padding: 30px;  
+background-size: cover;  
+font-family: sans-serif;  
+}  
+header {  
+background-color: #0E144C;  
+position: fixed;  
+left: 0;  
+right: 0;  
+top: 5px;  
+height: 50px;  
+display: flex;  
+align-items: center;  
+}  
+header * {  
+display: inline;  
+}  
+header li {  
+margin: 10px;
+padding-right: 10px;  
+}  
+header li a {  
+color: white;
+font-family: arial;
+text-align: right;  
+text-decoration: none; 
+font-weight: bold; 
+}
